@@ -1,0 +1,19 @@
+{
+  "name": "testes-unitarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maria",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.5.29",
+    "qunit": "^2.20.0"
+  },
+  "dependencies": {
+    "@types/qunit": "^2.19.10",
+    "jquery": "^3.7.1"
+  }
+}
